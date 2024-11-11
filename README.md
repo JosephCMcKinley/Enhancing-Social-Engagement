@@ -1,4 +1,4 @@
-# Analysis-of-Social-Engagement
+# Enhancing-Social-Engagement
 
 This repository is a comprehensive record of experimental research conducted during my Physics PhD at FAU as a Graduate Research Assistant from 2021 to 2024.  
 
