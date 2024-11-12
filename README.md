@@ -23,9 +23,12 @@ The following files are stored in this repository:
 A. Microsoft Excel files consisting of social engagement event data as rated by two professional raters.  This data consists of 1839 social engagement events with
    Likert scale ratings of the degree of engagement, the number of people engaged during each event, and indicator variables for various types of behavior and
    the host ID for each event.
+   
 B. Praat files, including Pitch and Intensity Tiers extracted from video audio files, and diarization logs created using Praat's annotation features.
    These files are stored in compressed zip folders.
+   
 C. MATLAB files, including graphs and programs that read in the data and conduct the analyses.
+
 D. Tables and Figures displaying relevant data produced by the analyses.
 
 
