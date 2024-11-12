@@ -43,5 +43,4 @@ To independently reproduce the analyses yourself, do the following:
 4. To run the analyses on all videos, run the MATLAB file "finalMainRun".  To run the analyses on a single video, run the MATLAB file "finalQuickRun", in lines 4, 5, and 6 enter the video date.
 5. After running the analyses for either a single video or all videos, the program will outpout the Tables and Figures presented on here and in the corresponding manuscript.
 
-ACKNOWLEDGEMENTS: We gratefully acknowledge Charles Cooper for helping to write many of the MATLAB programs stored here, which are essential for the analyses.  
-We also acknowledge FAU's Louis and Ann Greene Memory and Wellness Center and the study participants for providing us with the data for analysis.
+ACKNOWLEDGEMENTS: We gratefully acknowledge Charles Cooper for helping to write many of the MATLAB programs stored here, which are essential for the analyses.  We also acknowledge FAU's Louis and Ann Greene Memory and Wellness Center and the study participants for providing us with the data for analysis.
