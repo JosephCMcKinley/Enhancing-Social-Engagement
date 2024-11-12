@@ -38,9 +38,11 @@ All data that is made publicly available here has been deidentified in accordanc
 INSTRUCTIONS TO CONDUCT THE ANALYSES FOR YOURSELF:
 
 1. Download the MATLAB programs.
-2. Download the Praat data zip files and extract them.  Set the MATLAB path to include the Praat data files.
+2. Download the Praat data zip files and extract them.  Combine the two folders for the intensity tiers into a single folder titled "Intensity Tiers".  Set the MATLAB path to include the Praat data files.
 3. Download the Excel data.  Set the MATLAB path to include the Excel data files.
 4. To run the analyses on all videos, run the MATLAB file "finalMainRun".  To run the analyses on a single video, run the MATLAB file "finalQuickRun", in lines 4, 5, and 6 enter the video date.
 5. After running the analyses for either a single video or all videos, the program will outpout the Tables and Figures presented on here and in the corresponding manuscript.
 
-ACKNOWLEDGEMENTS: We gratefully acknowledge Charles Cooper for helping to write many of the MATLAB programs stored here, which are essential for the analyses.  We also acknowledge FAU's Louis and Ann Greene Memory and Wellness Center and the study participants for providing us with the data for analysis.
+ACKNOWLEDGEMENTS: 
+
+We gratefully acknowledge Charles Cooper for helping to write many of the MATLAB programs stored here, which are essential for the analyses.  We also acknowledge FAU's Louis and Ann Greene Memory and Wellness Center and the study participants for providing us with the data for these analyses.
