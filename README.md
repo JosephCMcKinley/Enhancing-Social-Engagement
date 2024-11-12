@@ -20,10 +20,21 @@ These analyses allowed our team to identify strategies that group facilitators c
 
 The following files are stored in this repository:
 
-1. Microsoft Excel files consisting of social engagement event data as rated by two professional raters.  This data consists of 
-2. Praat files, including Pitch and Intensity Tiers extracted from video audio files, and diarization logs created using Praat's annotation features.
-3. MATLAB files, including graphs and programs that read in the data and conduct the analyses.
-4. Tables and Figures displaying relevant data produced by the analyses.
+A. Microsoft Excel files consisting of social engagement event data as rated by two professional raters.  This data consists of 1839 social engagement events with
+   Likert scale ratings of the degree of engagement, the number of people engaged during each event, and indicator variables for various types of behavior and
+   the host ID for each event.
+B. Praat files, including Pitch and Intensity Tiers extracted from video audio files, and diarization logs created using Praat's annotation features.
+   These files are stored in compressed zip folders.
+C. MATLAB files, including graphs and programs that read in the data and conduct the analyses.
+D. Tables and Figures displaying relevant data produced by the analyses.
 
 
 All data that is made publicly available here has been deidentified in accordance with standard research ethics regarding human subjects.
+
+
+To independently reproduce the analyses yourself, do the following:
+
+1. Download the MATLAB programs.
+2. Download the Praat data zip files and extract them.  Set the MATLAB path to include the Praat data files.
+3. Download the Excel data.  Set the MATLAB path to include the Excel data files.
+4. 
