@@ -6,7 +6,7 @@ This research was conducted as part of an NIH/NIA-funded project investigating t
 with Alzheimer's disease and related dementias (ADRD) interacting younger unimpaired adult facilitator and control subjects.
 
 
-The analyses conducted by my research team include: 
+THE ANALYSES CONDUCTED BY MY RESEARCH TEAM INCLUDE THE FOLLOWING: 
 
 (i) exploratory analyses observing patterns in data features such as the length of time spoken by participants and 
 distributions in the social engagement scores for different hosts, which make use of data visualization schemes such as color-coded "Turn-at-Talk Graphs" and histograms, as well as 
@@ -18,7 +18,7 @@ the amount and percentage of time spoken by the various speaker groups.
 These analyses allowed our team to identify strategies that group facilitators can use to maximize social engagement in groups of older adults with ADRD.
 
 
-The following files are stored in this repository:
+THE FOLLOWING FILES ARE STORED IN THIS REPOSITORY:
 
 A. Microsoft Excel files consisting of social engagement event data as rated by two professional raters.  This data consists of 1839 social engagement events with
    Likert scale ratings of the degree of engagement, the number of people engaged during each event, and indicator variables for various types of behavior and
@@ -35,7 +35,7 @@ D. Tables and Figures displaying relevant data produced by the analyses.
 All data that is made publicly available here has been deidentified in accordance with standard research ethics regarding human subjects.
 
 
-To independently reproduce the analyses yourself, do the following:
+INSTRUCTIONS TO CONDUCT THE ANALYSES FOR YOURSELF:
 
 1. Download the MATLAB programs.
 2. Download the Praat data zip files and extract them.  Set the MATLAB path to include the Praat data files.
