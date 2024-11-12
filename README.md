@@ -6,9 +6,12 @@ This research was conducted as part of an NIH/NIA-funded project investigating t
 with Alzheimer's disease and related dementias (ADRD) interacting younger unimpaired adult facilitator and control subjects.
 
 
-The analyses conducted by my research team include: (i) exploratory analyses observing patterns in data features such as the length of time spoken by participants and 
-distributions in the social engagement scores for different hosts, which make use of data visualization schemes such as color-coded "Turn-at-Talk Graphs" and histograms, 
-as well as (ii) multivariate linear regression analyses comparing various types of features as predictive variables of the level of social engagement for each event, 
+The analyses conducted by my research team include: 
+
+(i) exploratory analyses observing patterns in data features such as the length of time spoken by participants and 
+distributions in the social engagement scores for different hosts, which make use of data visualization schemes such as color-coded "Turn-at-Talk Graphs" and histograms, as well as 
+
+(ii) multivariate linear regression analyses comparing various types of features as predictive variables of the level of social engagement for each event, 
 including the Host ID, the number of people speaking in a given event, the presence or absence of various types of behaviors such as humor or affirmation, 
 the amount and percentage of time spoken by the various speaker groups.  
 
