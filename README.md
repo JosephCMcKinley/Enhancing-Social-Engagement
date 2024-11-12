@@ -8,12 +8,8 @@ with Alzheimer's disease and related dementias (ADRD) interacting younger unimpa
 
 THE ANALYSES CONDUCTED BY MY RESEARCH TEAM INCLUDE THE FOLLOWING: 
 
-(i) exploratory analyses observing patterns in data features such as the length of time spoken by participants and 
-distributions in the social engagement scores for different hosts, which make use of data visualization schemes such as color-coded "Turn-at-Talk Graphs" and histograms, as well as 
-
-(ii) multivariate linear regression analyses comparing various types of features as predictive variables of the level of social engagement for each event, 
-including the Host ID, the number of people speaking in a given event, the presence or absence of various types of behaviors such as humor or affirmation, 
-the amount and percentage of time spoken by the various speaker groups.  
+1. Exploratory analyses observing patterns in data features such as the length of time spoken by participants and distributions in the social engagement scores for different hosts, which make use of data visualization schemes such as color-coded "Turn-at-Talk Graphs" and histograms. 
+2. Multivariate linear regression analyses comparing various types of features as predictive variables of the level of social engagement for each event, including the Host ID, the number of people speaking in a given event, the presence or absence of various types of behaviors such as humor or affirmation, the amount and percentage of time spoken by the various speaker groups.  
 
 These analyses allowed our team to identify strategies that group facilitators can use to maximize social engagement in groups of older adults with ADRD.
 
