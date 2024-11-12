@@ -30,7 +30,7 @@ INSTRUCTIONS TO CONDUCT THE ANALYSES FOR YOURSELF:
 1. Download the MATLAB programs.
 2. Download the Praat data zip files and extract them.  Combine the two folders for the intensity tiers into a single folder titled "Intensity Tiers".  Set the MATLAB path to include the Praat data files.
 3. Download the Excel data.  Set the MATLAB path to include the Excel data files.
-4. To run the analyses on all videos, run the MATLAB file "finalMainRun".  To run the analyses on a single video, run the MATLAB file "finalQuickRun", in lines 4, 5, and 6 enter the video date.
+4. To run the analyses on all videos, run the MATLAB file "finalMainRun".  To run the analyses on a single video, run the MATLAB file "finalQuickRun", in lines 4, 5, and 6 enter the video date.  Note that Turn-at-Talk Graphs will only be produced for individual videos by running "finalQuickRun", and global data like histograms of the engagement scores over all videos will only be produced by analyzing all videos with "finalMainRun".
 5. After running the analyses for either a single video or all videos, the program will outpout the Tables and Figures presented on here and in the corresponding manuscript.
 
 ACKNOWLEDGEMENTS: 
