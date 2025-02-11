@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Enhancing Social Engagement in Groups of Older Adults with
+  ADRD
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Joseph
+    family-names: McKinley
+    email: jmckinley2015@fau.edu
+    affiliation: Florida Atlantic University
+  - given-names: Alice
+    family-names: W Brumley
+    affiliation: Florida Atlantic University
+  - given-names: Christine
+    family-names: Williams
+    affiliation: Florida Atlantic University
+  - given-names: 'Emmanuelle '
+    family-names: Tognoli
+    affiliation: Florida Atlantic University
+  - given-names: Christopher
+    family-names: Beetle
+    affiliation: Florida Atlantic University
+identifiers:
+  - type: doi
+    value: 10.343777/jcs.37
+repository-code: >-
+  https://github.com/JosephCMcKinley/Enhancing-Social-Engagement/tree/main
