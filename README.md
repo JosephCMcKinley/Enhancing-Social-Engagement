@@ -36,3 +36,6 @@ INSTRUCTIONS TO CONDUCT THE ANALYSES FOR YOURSELF:
 ACKNOWLEDGEMENTS: 
 
 We gratefully acknowledge Charles Cooper for helping to write many of the MATLAB programs stored here, which are essential for the analyses.  We also acknowledge FAU's Louis and Ann Greene Memory and Wellness Center and the study participants for providing us with the data for these analyses.
+
+
+- Joseph C McKinley
